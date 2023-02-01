@@ -1,0 +1,173 @@
+
+  body {
+    font-family: 'Montserrat';
+    color: #11194E;
+  }
+
+  footer {
+    background-color: #11194E;
+    color: white;
+    padding: 70px 0 0 0;
+  }
+  
+  hr {
+    border-top: 8px solid;
+    opacity: 1;
+    color: black;
+  }
+  
+  h1 {
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 61px;
+    margin-bottom: 20px;  
+  }
+
+  h3 {
+    font-weight: 600;
+    font-size: 80px;
+    line-height: 98px;
+    color: #11194E;
+  }
+
+  h3:after {
+    display: inline-block;
+    content: "";
+    height: 8px;
+    background: #A93B9E;
+    width: 10%;
+    top: 50%;
+    margin-top: -2px;
+    margin-left: 10px;
+  }
+
+  .ab-bg {
+    background-color: #D2D6EF;
+  }
+
+  .border {
+    border-radius: 20px;
+    border-color: #A09ADB;
+  }
+  
+  .btn {
+    border-radius: 50px;
+    font-size: 20px;
+    line-height: 24px;
+    padding: 15px 30px;
+  }
+
+  .btn-norm {
+    background-color: #A93B9E;
+    border-color: #A93B9E;
+  }
+
+  .btn-norm:hover {
+    background-color: transparent;
+    color: #A93B9E;
+    border-color: #A93B9E;
+  }
+
+  .cl-hd {
+    font-size: 45px;
+  }
+
+  .fa-brands {
+    padding: 5px;
+  }
+
+  .form-control {
+    border-width: 0 0 3px 0;
+    border-radius: 0;
+    border-color: #0F132D;
+  }
+
+
+  .hero-1 {
+    padding-top: 160px;
+    padding-bottom: 160px;
+  }
+
+  .hero-txt {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    margin-bottom: 20px;
+  }
+
+  .nav-btn {
+    background-color: transparent;
+    font-weight: 500;
+    color: #11194E;
+    border-color: #11194E;
+  }
+
+  .nav-btn:hover {
+    background-color: #11194E;
+    border-color: #11194E;
+  }
+  
+  .navbar {
+    background: #DBDFF2;
+  }
+
+  .navbar-nav {
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+  }
+
+  .navbar-brand {
+    width: 236px;
+    height: 48.01px;
+  }
+  
+  .nav-link {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    color: #0F132D;
+
+  }
+
+  .serv-sec {
+    padding: 50px;
+  }
+  
+  .serv-grid {
+    padding: 30px;
+    margin-right: 70px;
+  }
+
+  .sec-sp {
+    padding: 70px 0;
+  }
+  
+  .topBar-second-text {
+    color: #be3600;
+  }
+
+  .wk-grid {
+    padding-right: 70px;
+  }
+
+  .wk-hd {
+    font-weight: 600;
+    font-size: 60px;
+    color: #0F132D;
+  }
+
+  .wk-img {
+    margin-bottom: 30px;
+  }
+
+  .wk-sh {
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    color: #0F132D;
+  }
+  
